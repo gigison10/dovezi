@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dovezi/static/css/main.4dcbed49.css",
+    "main.js": "/dovezi/static/js/main.7c08e36b.js",
+    "static/js/787.1034a8dc.chunk.js": "/dovezi/static/js/787.1034a8dc.chunk.js",
+    "static/media/checul.jpg": "/dovezi/static/media/checul.216ee049c59833c344c1.jpg",
+    "static/media/gar.jpg": "/dovezi/static/media/gar.ecf9434edbd9fea0f523.jpg",
+    "static/media/rezultat investigare.jpg": "/dovezi/static/media/rezultat investigare.16d6ae272f1571502da5.jpg",
+    "static/media/1.jpg": "/dovezi/static/media/1.ae5d75656d1a68b86f6c.jpg",
+    "static/media/act primire.jpg": "/dovezi/static/media/act primire.16fceb7758be1cd8218c.jpg",
+    "index.html": "/dovezi/index.html",
+    "main.4dcbed49.css.map": "/dovezi/static/css/main.4dcbed49.css.map",
+    "main.7c08e36b.js.map": "/dovezi/static/js/main.7c08e36b.js.map",
+    "787.1034a8dc.chunk.js.map": "/dovezi/static/js/787.1034a8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcbed49.css",
+    "static/js/main.7c08e36b.js"
+  ]
+}
