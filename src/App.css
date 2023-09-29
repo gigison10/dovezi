@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.pozele {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.image {
+  width: 800px;
+}
+
+.imageHeader {
+  color: red;
+}
